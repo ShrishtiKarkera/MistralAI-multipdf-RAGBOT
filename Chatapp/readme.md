@@ -108,7 +108,7 @@ I have attached a demonstration below, where I gave first 2 Harry Potter books a
 [![Watch the video](https://img.youtube.com/vi/PTvkBwq5VnI/default.jpg)](https://youtu.be/PTvkBwq5VnI)
 
 
-References:
+### References:
 * https://aws.amazon.com/what-is/retrieval-augmented-generation/
 * https://www.linkedin.com/pulse/llms-just-chatbots-akshay-ballal-vzfwe/
 * https://blogs.nvidia.com/blog/what-is-retrieval-augmented-generation/
