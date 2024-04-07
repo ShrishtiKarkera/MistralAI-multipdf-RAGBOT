@@ -3,7 +3,7 @@ RAG enhances the existing potent functionalities of LLMs for particular domains 
 without necessitating model retraining. This method offers a cost-efficient means of enhancing LLM output, ensuring its continued relevance, precision, 
 and utility across diverse settings. <br>
 
-LLMs are used to generate AI powered intelligent chatbots, cmoputer vision, robotics and consumer devices, etc.
+LLMs are used to generate AI powered intelligent chatbots, computer vision, robotics and consumer devices, etc.
 Unfortunately, the nature of LLM technology introduces unpredictability in LLM responses as its not a state machine and it undergoes the following challenges:
 1. Hallucination - the phenomena where the LLM responds with false information or partially false information which is problem hard to resolve.
 2. Presenting out-of-date or generic information when the user expects a specific, current response.
