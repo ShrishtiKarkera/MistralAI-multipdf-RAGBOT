@@ -1,4 +1,4 @@
-## What is Retrival Augmented Generation
+## What is Retrieval Augmented Generation
 RAG enhances the existing potent functionalities of LLMs for particular domains or an organization's internal knowledge repository, 
 without necessitating model retraining. This method offers a cost-efficient means of enhancing LLM output, ensuring its continued relevance, precision, 
 and utility across diverse settings. <br>
